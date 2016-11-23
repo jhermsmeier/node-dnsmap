@@ -17,6 +17,24 @@ $ npm install --save dnsmap
 var dnsmap = require( 'dnsmap' )
 ```
 
+**Options**
+
+```js
+var mapper = dnsmap.createStream({
+  // Target base domain / string
+  target: null,
+  // Maximum number of queries to run in parallel
+  concurrency: 1,
+  // Maximum delay between DNS lookups
+  maxDelay: 100,
+  // DNS record types to query (defaults to all)
+  types: [ 'AAAA' ],
+  // Word substitution pattern
+  // Defaults to '%s.' + target
+  pattern: '%s.domain.tld',
+})
+```
+
 **Mapping subdomains**
 
 ```js
