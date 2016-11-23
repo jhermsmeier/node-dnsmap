@@ -22,15 +22,19 @@ adserver
 adv
 affiliate
 agent
+air
+airport
 ajax
 alfa
 algiers
 alpha
+alprc
 analytics
 android
 ankara
 antispam
 ap
+apache
 api
 apollo
 app
@@ -89,6 +93,7 @@ cairo
 caldav
 calendar
 cam
+camp
 campfire
 canal
 carddav
@@ -111,6 +116,7 @@ chronos
 ci
 cia
 cifs
+cisco
 citrix
 city
 class
@@ -125,6 +131,8 @@ cobol
 code
 coffee
 commit
+companies
+company
 conf
 connect
 constructor
@@ -136,6 +144,7 @@ controller
 core
 corporate
 counter
+coyote
 cp
 cpanel
 credit
@@ -149,6 +158,7 @@ da
 daemon
 dakar
 damascus
+dark
 darwin
 dash
 dashboard
@@ -193,6 +203,7 @@ domain-controller
 domaincontroller
 download
 downloads
+dreambox
 dublin
 eaccess
 ead
@@ -216,6 +227,7 @@ events
 example
 examples
 exchange
+exe
 exfat
 explore
 explorer
@@ -242,11 +254,13 @@ form
 forms
 forum
 forums
+foscam
 fr
 free
 freebsd
 ftp
 ftpd
+galaxy
 galleries
 gallery
 game
@@ -304,6 +318,7 @@ hq
 html
 hub
 ia32
+ics
 id
 image
 images
@@ -326,9 +341,12 @@ international
 internet
 intra
 intranet
+investor
+investors
 ios
 ip
 ip6
+ipcam
 ipsec
 ipv4
 ipv6
@@ -341,6 +359,7 @@ it
 jabber
 java
 jerusalem
+jet
 job
 jobs
 join
@@ -348,6 +367,7 @@ joomla
 journal
 jp
 js
+json
 jupiter
 kabul
 kanal
@@ -375,6 +395,7 @@ libguides
 library
 libs
 life
+light
 lima
 lin
 link
@@ -422,6 +443,9 @@ mars
 matrix
 mb
 mba
+mdb
+mdns
+mdnsd
 me
 media
 meeting
@@ -436,7 +460,9 @@ mexico
 mexico-city
 mic
 mics
+mil
 miles
+military
 minerva
 minus
 misc
@@ -448,6 +474,8 @@ mobile
 mobilemail
 modbus
 mon
+mongo
+mongodb
 more
 moskow
 movie
@@ -471,6 +499,7 @@ n
 nas
 neon
 net
+netcam
 netmail
 network
 new
@@ -524,6 +553,7 @@ pages
 panama
 panelstats
 panelstatsmail
+paradise
 paris
 partner
 partners
@@ -546,6 +576,7 @@ physic
 physics
 pic
 pics
+pips
 piwik
 pl
 plane
@@ -553,6 +584,7 @@ planes
 plex
 plus
 pluto
+pnp
 pop
 pop3
 pop3d
@@ -578,10 +610,13 @@ pub
 public
 puppet
 qa
+quic
 quito
 r
 radio
 radius
+rar
+rdb
 red
 ref
 relay
@@ -599,6 +634,8 @@ restrict
 restricted
 retail
 retailer
+rethink
+rethinkdb
 return
 revert
 review
@@ -608,10 +645,15 @@ riga
 robinhood
 rom
 rome
+route
 router
 rs
 rsc
 rss
+rtsp
+rtsp-tcp
+rtsptcp
+rtsptcpd
 ru
 s3
 safari
@@ -647,6 +689,7 @@ ship
 shipment
 shop
 shopping
+siemens
 signup
 silver
 singapore
@@ -673,9 +716,13 @@ socks5
 soft
 software
 solaris
+sound
+sounds
 sp
+space
 spam
 spb
+spdy
 spool
 sport
 sports
@@ -687,6 +734,7 @@ srv1
 srv2
 srv3
 srv4
+ssh
 ssh
 ssl
 stack
@@ -732,6 +780,7 @@ tallinn
 tape
 tapes
 tax
+tcpd
 team
 tech
 tehran
@@ -750,6 +799,7 @@ timekeeper
 titan
 tm
 tokyo
+toml
 top
 tor
 torrent
@@ -773,12 +823,16 @@ twitter
 txt
 type
 ua
+udp
+udpd
+udpxy
 undefined
 unix
 update
 updates
 upload
 uploads
+upnp
 us
 usa
 user
@@ -804,6 +858,7 @@ vlan
 vlog
 vm
 vnc
+vncd
 void
 voip
 vote
@@ -866,3 +921,4 @@ xxx
 yellow
 yml
 zeus
+zip
