@@ -24,6 +24,7 @@ var mapper = dnsmap.searchStream({
 mapper.on( 'readable', function() {
   var data = null
   while( data = this.read() ) {
+    log()
     log( inspect( data ) )
     log()
   }

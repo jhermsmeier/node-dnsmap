@@ -1,6 +1,14 @@
 var dnsmap = require( '..' )
 var readline = require( 'readline' )
 var fs = require( 'fs' )
+var util = require( 'util' )
+
+function inspect( value ) {
+  return util.inspect( value, {
+    depth: null,
+    colors: true,
+  })
+}
 
 var wordlist = readline.createInterface({
   input: fs.createReadStream( __dirname + '/../test/data/wordlist.txt' )
@@ -19,6 +27,7 @@ mapper.on( 'dns:query', function( domain ) {
 })
 
 mapper.on( 'data', function( data ) {
-  console.log( data )
+  console.log()
+  console.log( inspect( data ) )
   console.log()
 })
