@@ -1,0 +1,43 @@
+{
+  "name": "dnsmap",
+  "version": "1.0.0",
+  "description": "DNS network mapper",
+  "license": "MIT",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "keywords": [
+    "dnsmap",
+    "dns",
+    "map",
+    "network",
+    "bruteforce",
+    "domain",
+    "security"
+  ],
+  "main": "lib/dnsmap.js",
+  "dependencies": {
+    "bloodline": "~1.0.0",
+    "fastparallel": "~2.3.0",
+    "fastq": "~1.4.1"
+  },
+  "devDependencies": {
+    "punycode": "~2.0.1"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "homepage": "https://github.com/jhermsmeier/node-dnsmap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-dnsmap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-dnsmap/issues"
+  },
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "suffixlist": "node scripts/public-suffix.js"
+  }
+}
