@@ -15,12 +15,12 @@
   ],
   "main": "lib/dnsmap.js",
   "dependencies": {
-    "bloodline": "~1.0.0",
-    "fastparallel": "~2.3.0",
-    "fastq": "~1.4.1"
+    "bloodline": "^1.0.1",
+    "fastparallel": "^2.3.0",
+    "fastq": "^1.6.0"
   },
   "devDependencies": {
-    "punycode": "~2.0.1"
+    "punycode": "^2.1.1"
   },
   "peerDependencies": {},
   "optionalDependencies": {},
