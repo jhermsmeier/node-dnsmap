@@ -44,6 +44,7 @@ application
 apply
 apps
 appstore
+arc
 arte
 asp
 asset
@@ -168,6 +169,7 @@ datastore
 dav
 db
 dbadmin
+dc
 de
 deamon
 debian
@@ -195,6 +197,7 @@ direct
 directory
 disk
 dl
+dmarc
 dns
 doc
 docs
@@ -618,6 +621,9 @@ radius
 rar
 rdb
 red
+redaktion
+redirect
+redirects
 ref
 relay
 remote
@@ -719,6 +725,7 @@ solaris
 sound
 sounds
 sp
+spf
 space
 spam
 spb
